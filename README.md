@@ -1,3 +1,3 @@
-# Welcome to your Lovable project
+# Neelam Portfolio
 
-TODO: Document your project here
+Personal portfolio site for Neelam (Ph.D. Geography researcher).
